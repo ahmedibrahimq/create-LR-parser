@@ -112,3 +112,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Grammar files
+grammar.py
+test.txt
+lexical_analyzer.py
+*.json
+pandas/
+.vscode
